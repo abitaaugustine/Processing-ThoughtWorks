@@ -30,7 +30,7 @@ public class TryProcessing extends PApplet {
     @Override
     public void settings() {
         super.settings();
-        size(640,480);
+        size(Width,Height);
     }
 
     @Override
